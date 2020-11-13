@@ -13,6 +13,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Olá Thiago!");
         System.out.println("Segundo Vez: Olá Thiago!");
+        System.out.println("Alterado.");
     }
     
 }
